@@ -1,13 +1,12 @@
 {
-  "name": "job-cloud-api",
+  "name": "job-scraper-ultra-stealth",
   "version": "1.0.0",
-  "main": "server.js",
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.21.2",
     "playwright": "^1.56.1"
   }
 }
